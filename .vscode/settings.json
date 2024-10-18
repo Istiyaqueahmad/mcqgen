@@ -3,6 +3,8 @@
         "langchain",
         "levelname",
         "mcqgenerator",
-        "OPENAI"
+        "OPENAI",
+        "streamlit",
+        "Uplaod"
     ]
 }
