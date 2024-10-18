@@ -1,2 +1,2 @@
 from src.mcqgenerator.logger import logging
-logging.info("ggggggg")
+logging.info("gggg")
